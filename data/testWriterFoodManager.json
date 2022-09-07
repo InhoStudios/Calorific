@@ -1,0 +1,115 @@
+{
+    "foods": [[
+        {
+            "carbs": 0,
+            "protein": 0,
+            "name": "Eggs",
+            "fat": 0,
+            "calories": 150,
+            "caloriesFromMacros": 0
+        },
+        {
+            "carbs": 20,
+            "protein": 20,
+            "name": "Sandwich",
+            "fat": 20,
+            "calories": 360,
+            "caloriesFromMacros": 360
+        },
+        {
+            "carbs": 0,
+            "protein": 0,
+            "name": "Steak",
+            "fat": 0,
+            "calories": 600,
+            "caloriesFromMacros": 0
+        }
+    ]],
+    "calorieGoal": [2000],
+    "meals": [[
+        {
+            "date": "Wed Jan 01 00:00:00 PST 2020",
+            "lunch": [{
+                "carbs": 20,
+                "protein": 20,
+                "name": "Sandwich",
+                "fat": 20,
+                "calories": 360,
+                "caloriesFromMacros": 360
+            }],
+            "totalCalories": 1110,
+            "breakfast": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Eggs",
+                "fat": 0,
+                "calories": 150,
+                "caloriesFromMacros": 0
+            }],
+            "dinner": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Steak",
+                "fat": 0,
+                "calories": 600,
+                "caloriesFromMacros": 0
+            }]
+        },
+        {
+            "date": "Thu Jan 02 00:00:00 PST 2020",
+            "lunch": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Eggs",
+                "fat": 0,
+                "calories": 150,
+                "caloriesFromMacros": 0
+            }],
+            "totalCalories": 1110,
+            "breakfast": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Steak",
+                "fat": 0,
+                "calories": 600,
+                "caloriesFromMacros": 0
+            }],
+            "dinner": [{
+                "carbs": 20,
+                "protein": 20,
+                "name": "Sandwich",
+                "fat": 20,
+                "calories": 360,
+                "caloriesFromMacros": 360
+            }]
+        },
+        {
+            "date": "Fri Jan 03 00:00:00 PST 2020",
+            "lunch": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Steak",
+                "fat": 0,
+                "calories": 600,
+                "caloriesFromMacros": 0
+            }],
+            "totalCalories": 1110,
+            "breakfast": [{
+                "carbs": 20,
+                "protein": 20,
+                "name": "Sandwich",
+                "fat": 20,
+                "calories": 360,
+                "caloriesFromMacros": 360
+            }],
+            "dinner": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "Eggs",
+                "fat": 0,
+                "calories": 150,
+                "caloriesFromMacros": 0
+            }]
+        }
+    ]]
+}

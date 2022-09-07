@@ -1,0 +1,13 @@
+{
+    "foods": [[
+      {
+        "carbs": 0,
+        "protein": 0,
+        "name": "",
+        "fat": 0,
+        "calories": 150,
+        "caloriesFromMacros": 0
+      }]],
+    "calorieGoal": [100],
+    "meals": [[]]
+}

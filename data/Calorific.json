@@ -1,0 +1,254 @@
+{
+    "foods": [[
+        {
+            "carbs": 0,
+            "protein": 0,
+            "name": "yogurt",
+            "fat": 0,
+            "calories": 110,
+            "caloriesFromMacros": 0
+        },
+        {
+            "carbs": 10,
+            "protein": 10,
+            "name": "eggs",
+            "fat": 9,
+            "calories": 170,
+            "caloriesFromMacros": 170
+        },
+        {
+            "carbs": 0,
+            "protein": 0,
+            "name": "steak",
+            "fat": 0,
+            "calories": 600,
+            "caloriesFromMacros": 0
+        },
+        {
+            "carbs": 10,
+            "protein": 10,
+            "name": "Sandwich",
+            "fat": 5,
+            "calories": 130,
+            "caloriesFromMacros": 130
+        },
+        {
+            "carbs": 14,
+            "protein": 7,
+            "name": "noodles",
+            "fat": 7,
+            "calories": 154,
+            "caloriesFromMacros": 154
+        },
+        {
+            "carbs": 14,
+            "protein": 7,
+            "name": "noodles",
+            "fat": 7,
+            "calories": 154,
+            "caloriesFromMacros": 154
+        },
+        {
+            "carbs": 102,
+            "protein": 333,
+            "name": "Madelaines",
+            "fat": 999,
+            "calories": 555,
+            "caloriesFromMacros": 11730
+        }
+    ]],
+    "calorieGoal": [1800],
+    "meals": [[
+        {
+            "date": "Thu Nov 19 22:53:27 PST 2020",
+            "lunch": [
+                {
+                    "carbs": 0,
+                    "protein": 0,
+                    "name": "yogurt",
+                    "fat": 0,
+                    "calories": 110,
+                    "caloriesFromMacros": 0
+                },
+                {
+                    "carbs": 10,
+                    "protein": 10,
+                    "name": "Sandwich",
+                    "fat": 5,
+                    "calories": 130,
+                    "caloriesFromMacros": 130
+                }
+            ],
+            "totalCalories": 1274,
+            "breakfast": [
+                {
+                    "carbs": 0,
+                    "protein": 0,
+                    "name": "yogurt",
+                    "fat": 0,
+                    "calories": 110,
+                    "caloriesFromMacros": 0
+                },
+                {
+                    "carbs": 10,
+                    "protein": 10,
+                    "name": "eggs",
+                    "fat": 9,
+                    "calories": 170,
+                    "caloriesFromMacros": 170
+                }
+            ],
+            "dinner": [
+                {
+                    "carbs": 0,
+                    "protein": 0,
+                    "name": "steak",
+                    "fat": 0,
+                    "calories": 600,
+                    "caloriesFromMacros": 0
+                },
+                {
+                    "carbs": 14,
+                    "protein": 7,
+                    "name": "noodles",
+                    "fat": 7,
+                    "calories": 154,
+                    "caloriesFromMacros": 154
+                }
+            ]
+        },
+        {
+            "date": "Fri Nov 20 22:53:27 PST 2020",
+            "lunch": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "yogurt",
+                "fat": 0,
+                "calories": 110,
+                "caloriesFromMacros": 0
+            }],
+            "totalCalories": 880,
+            "breakfast": [{
+                "carbs": 10,
+                "protein": 10,
+                "name": "eggs",
+                "fat": 9,
+                "calories": 170,
+                "caloriesFromMacros": 170
+            }],
+            "dinner": [{
+                "carbs": 0,
+                "protein": 0,
+                "name": "steak",
+                "fat": 0,
+                "calories": 600,
+                "caloriesFromMacros": 0
+            }]
+        },
+        {
+            "date": "Sat Nov 21 10:08:30 PST 2020",
+            "lunch": [{
+                "carbs": 102,
+                "protein": 333,
+                "name": "Madelaines",
+                "fat": 999,
+                "calories": 555,
+                "caloriesFromMacros": 11730
+            }],
+            "totalCalories": 709,
+            "breakfast": [],
+            "dinner": [{
+                "carbs": 14,
+                "protein": 7,
+                "name": "noodles",
+                "fat": 7,
+                "calories": 154,
+                "caloriesFromMacros": 154
+            }]
+        },
+        {
+            "date": "Mon Nov 16 13:44:25 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Tue Nov 17 13:44:25 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Wed Nov 18 13:44:25 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Sun Nov 22 13:44:25 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Mon Nov 23 13:44:25 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Tue Nov 24 14:13:43 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Sun Nov 15 14:13:43 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Wed Nov 25 14:25:36 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Thu Nov 26 14:25:36 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Fri Nov 27 14:25:36 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Wed Nov 25 16:03:43 PST 2020",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        },
+        {
+            "date": "Thu Aug 05 20:48:20 PDT 2021",
+            "lunch": [],
+            "totalCalories": 0,
+            "breakfast": [],
+            "dinner": []
+        }
+    ]]
+}

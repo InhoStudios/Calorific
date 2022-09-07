@@ -1,0 +1,11 @@
+{
+    "foods": [[]],
+    "calorieGoal": [1800],
+    "meals": [[{
+        "date": "ThisDateIsBad",
+        "lunch": [],
+        "totalCalories": 0,
+        "breakfast": [],
+        "dinner": []
+    }]]
+}
